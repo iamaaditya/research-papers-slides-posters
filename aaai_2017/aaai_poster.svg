@@ -4554,9 +4554,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.32"
      inkscape:cx="1377.0778"
-     inkscape:cy="1733.3758"
+     inkscape:cy="3233.3758"
      inkscape:document-units="px"
-     inkscape:current-layer="g18152"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1391"
@@ -7908,7 +7908,7 @@ rkJggg==
        height="240"
        width="252.89919" />
     <image
-       y="-3375.0166"
+       y="-3382.6416"
        x="82.452881"
        id="image40226"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAFHCAYAAACh7fmMAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -8531,8 +8531,8 @@ gJSSsSeKyFGgzJbtliuc/w9iRi4EmX1IdQAAAABJRU5ErkJggg==
 "
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
-       height="278.51266"
-       width="220.63451" />
+       height="244.13766"
+       width="192.50951" />
     <image
        y="-3660.1965"
        x="67.348587"
@@ -44948,7 +44948,7 @@ QAABBBBAAAEEEEAAgeoK/D8XJ43Kh1hgMAAAAABJRU5ErkJggg==
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:justify;text-anchor:start"
          id="flowPara67442">- Vocabulary size was fixed to 20K. Embedding dimension was 500.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:justify;text-anchor:start"
-         id="flowPara67480">- Adam was used for optimization with learning rate of 0.001, batch size was 100.</flowPara><flowPara
+         id="flowPara67480">- Adam was used for optimization with learning rate of 0.001; batch size was 100.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:justify;text-anchor:start"
          id="flowPara67446">- Loss is sum of cross entropy from prediction labels and prediction of memory slots.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:justify;text-anchor:start"
