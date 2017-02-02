@@ -1,0 +1,19 @@
+ABSTRACT 
+
+New Interface Protocol to Connect Multiple Bank Networks from a 
+Single Outlet
+
+We propose an innovative interface protocol that will allow an access to 
+multiple banks from a single outlet. This will enable a single branch to 
+serve customers of several banks. This will in essence deleverage 
+infrastructure of branch from banking business, allow banks to focus on 
+service and product and not infrastructure, which is not its core 
+competency. Having common branch will drastically reduce the number 
+of branches required for given population and area; this will reduce 
+operational cost of banking by manifolds.  Protocol we propose uses 
+dynamic network switching of the multiple networks to allow the 
+common interface to access the API of different participating banks. We 
+propose a scalable model which could harness Cloud computing if the 
+load on the infrastructure is high. We have also given justification for 
+the need of Cost saving for bank branches and potential benefits of 
+implementing the proposed model.

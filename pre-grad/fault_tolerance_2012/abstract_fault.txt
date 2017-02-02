@@ -1,0 +1,26 @@
+ABSTRACT
+
+Measures of Fault Tolerance in Distributed Simulated 
+Annealing
+
+In this paper, we examine the different measures of 
+Fault Tolerance in a Distributed Simulated Annealing 
+process. Optimization by Simulated Annealing on a 
+distributed system is prone to various sources of 
+failure. We analyse simulated annealing algorithm, 
+its architecture in distributed platform and 
+potential sources of failures. We examine the 
+behaviour of tolerant distributed system for 
+optimization task. We present possible methods to 
+overcome the failures and achieve fault tolerance for 
+the distributed simulated annealing process. We also 
+examine the implementation of Simulated Annealing in 
+MapReduce system and possible ways to prevent 
+failures in reaching the global optima. This paper 
+will be beneficial to those who are interested in 
+implementing a large scale distributed simulated 
+annealing optimization problem of industrial or 
+academic interest. We recommend hybrid tolerance 
+technique to optimize the trade-off between 
+efficiency and availability.
+
